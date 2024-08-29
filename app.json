@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reanimated-react-native",
-    "slug": "reanimated-react-native",
+    "name": "test-RN-reanimated",
+    "slug": "test-RN-reanimated",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
